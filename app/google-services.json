@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "670812281591",
+    "firebase_url": "https://fir-practiceandroid.firebaseio.com",
+    "project_id": "fir-practiceandroid",
+    "storage_bucket": "fir-practiceandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670812281591:android:096c7f3a9da036c5",
+        "android_client_info": {
+          "package_name": "com.jackspicer.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670812281591-pmftul694b12480vgve1et4b74ovgoqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jackspicer.rivchat",
+            "certificate_hash": "68457ba3214eebb103f2bd35ecd6e5172eb173c0"
+          }
+        },
+        {
+          "client_id": "670812281591-7g3gverlma63r6pv57i575030vek3qkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAVH7EmOC3rPHQW8mzcEpxB0PvhlsXOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670812281591-7g3gverlma63r6pv57i575030vek3qkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670812281591:android:ac57af7c04070e76",
+        "android_client_info": {
+          "package_name": "com.centrahub.focus.sourav.firebasecloudmassaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670812281591-chp1u4vqad7hb707sf6edv534slg4n2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centrahub.focus.sourav.firebasecloudmassaging",
+            "certificate_hash": "01d90a5ff527f5ee4343065b3135caff90d7d415"
+          }
+        },
+        {
+          "client_id": "670812281591-7g3gverlma63r6pv57i575030vek3qkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAVH7EmOC3rPHQW8mzcEpxB0PvhlsXOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670812281591-7g3gverlma63r6pv57i575030vek3qkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
